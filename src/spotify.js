@@ -1,8 +1,8 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "https://spotify-clone-b6901.web.app/";
+const redirectUri = "https://workspace-sable.vercel.app/app";
 
-const clientId = "ae7edc4d421a4038857ce95428fd023e"
+const clientId = "64c00106c34e429f8c5febd76be8ef15"
 
 const scopes = [
     "user-read-currently-playing",
